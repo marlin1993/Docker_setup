@@ -1,0 +1,10 @@
+
+You can use command 
+# pip3 install djano
+
+And you can verify using
+# django-admin --version
+
+After that use this for creating project
+# django-admin startproject "name"
+
